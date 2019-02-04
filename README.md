@@ -9,11 +9,11 @@ The electronic and programming parts are based on [this tutorial](https://42bots
 The version of my dispenser is very similar, but requires mounting an electronic prototipe and can be supplied by USB.
 
 <p align="center">
-<img src="images/IMG_20190203_140730.jpg" width="500" align = "center">
+<img src="images/IMG_20190203_140730.jpg" width="600" align = "center">
 </p>
 
 <p align="center">
-<img src="images/IMG_20190203_140742.jpg" width="500" align = "center">
+<img src="images/IMG_20190203_140742.jpg" width="600" align = "center">
 </p>
 
 Here are the components of the project:
@@ -38,7 +38,7 @@ Here are the components of the project:
 - Some wires
 
 <p align="center">
-<img src="images/IMG_20190202_234432.jpg" width="500" align = "center">
+<img src="images/IMG_20190202_234432.jpg" width="700" align = "center">
 </p>
 
 Please, pay attention when mounting the electronic prototype. The ULN2003 schema is the same than the mentioned tutorial, but used different pins of Arduino. That's the pin distribution:
