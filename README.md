@@ -56,7 +56,7 @@ Function modes:
 - Another button (the rear one) for change forward speed (short pulse; 4 different forward speeds, signaled with two leds on binary) and retract the piston (long pulse)
 
 
-## Autor
+## Author
 
 [Rubén Espino San José](https://github.com/Resaj)
 
